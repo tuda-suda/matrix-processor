@@ -1,0 +1,8 @@
+*gradle*
+.gradle
+.idea
+build
+*.yaml
+/Numeric Matrix Processor/*
+/Numeric Matrix Processor/task/out
+!/Numeric Matrix Processor/task
